@@ -1,9 +1,26 @@
 .title{
-    color: white;
+	color: #003A04;
+	font-family: Cambria,Georgia,serif;
+	font-style: normal;
+	font-weight: 200;
+	font-size: 48px;
 }
-.dollarvalue{
-    color: white;
+.subtitle{
+	color:#002C7E;
+	margin-left: 5px;
+}
+.value{
+	margin-bottom: 4px;
+	padding: 3px;
+	color: #72706F;
+	border-style: solid;
+	border-size: 1px;
+	border-color: #1F6A22;
 }
 body{
-    background-color: red;
+	background-color: #DEDCDA;
+}
+p{
+	color: #73746F;
+	margin-left: 15px;
 }
